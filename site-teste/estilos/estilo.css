@@ -1,0 +1,27 @@
+#my-id {
+    color : black;
+    width: 600px;
+    border: 1px solid white;
+}
+p,
+li{
+    color: #F5F8FA
+}
+h1{
+    color: #F5F8FA;
+    text-align: center;
+    margin: 10px;
+}
+html {font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+background-color: #141d26;}
+body {
+    width: 600px;
+    margin: 50px auto;
+    padding: 0px 20px 20px 20px;
+    border: 1px solid white;
+}
+img{
+    display: block;
+    margin:0 auto ;
+}
